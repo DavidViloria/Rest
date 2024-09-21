@@ -15,6 +15,7 @@
 		3F90CE7F2C7AE63C0020E718 /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3F90CE7D2C7AE63C0020E718 /* chimeup.mp3 */; };
 		3F90CE862C7AEB4C0020E718 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90CE852C7AEB4C0020E718 /* OnboardingView.swift */; };
 		3F90CE882C7AEB5B0020E718 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F90CE872C7AEB5B0020E718 /* HomeView.swift */; };
+		3FB6232F2C9D2705000D3FEE /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB6232E2C9D2705000D3FEE /* CircleGroupView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3F90CE842C7AEADB0020E718 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		3F90CE852C7AEB4C0020E718 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		3F90CE872C7AEB5B0020E718 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		3FB6232E2C9D2705000D3FEE /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			children = (
 				3F90CE702C7AE4E00020E718 /* ContentView.swift */,
 				3F90CE852C7AEB4C0020E718 /* OnboardingView.swift */,
+				3FB6232E2C9D2705000D3FEE /* CircleGroupView.swift */,
 				3F90CE872C7AEB5B0020E718 /* HomeView.swift */,
 			);
 			path = Screens;
@@ -185,6 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FB6232F2C9D2705000D3FEE /* CircleGroupView.swift in Sources */,
 				3F90CE862C7AEB4C0020E718 /* OnboardingView.swift in Sources */,
 				3F90CE882C7AEB5B0020E718 /* HomeView.swift in Sources */,
 				3F90CE712C7AE4E00020E718 /* ContentView.swift in Sources */,
