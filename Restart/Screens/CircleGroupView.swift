@@ -11,6 +11,7 @@ struct CircleGroupView: View {
     @State var shapeColor: Color
     @State var shapeOpacity: Double
     @State private var isAnimating = false
+    
     var body: some View {
         ZStack(content: {
             Circle()
